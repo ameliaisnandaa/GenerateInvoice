@@ -1,0 +1,14 @@
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\bin\Debug\netcoreapp3.1\SimpleGenerateInvoice.exe
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\bin\Debug\netcoreapp3.1\SimpleGenerateInvoice.deps.json
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\bin\Debug\netcoreapp3.1\SimpleGenerateInvoice.runtimeconfig.json
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\bin\Debug\netcoreapp3.1\SimpleGenerateInvoice.runtimeconfig.dev.json
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\bin\Debug\netcoreapp3.1\SimpleGenerateInvoice.dll
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\bin\Debug\netcoreapp3.1\SimpleGenerateInvoice.pdb
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.AssemblyInfoInputs.cache
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.AssemblyInfo.cs
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.csproj.CoreCompileInputs.cache
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.dll
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.pdb
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.genruntimeconfig.cache
+C:\Users\Amelia Isnanda\source\repos\SimpleGenerateInvoice\SimpleGenerateInvoice\obj\Debug\netcoreapp3.1\SimpleGenerateInvoice.csproj.AssemblyReference.cache
